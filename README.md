@@ -9,7 +9,9 @@ This is not yet complet, and is my first GAS program after the "Hello world!".
 Here I both want to learn and leave an codding example for those who like me are trying to learn with simple examples. 
 
 To run it in Linux, go to the command line (ctrl+alt+T), then type
+
 >> cd "PATH_TO_YOUR_FOLDER"
+
 >> "python compile.py gessingas"
 
 replace "PATH_TO_YOUR_FOLDER" with the actual path to the folder where you downloaded the files.
